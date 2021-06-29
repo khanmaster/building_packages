@@ -67,3 +67,5 @@ one_to_100 = Fizzbuzz(1, 100)
 
 print(one_to_100.fizzbuzz_list)
 ```
+
+- ` pip install .` to install our package using `pip` package manager
